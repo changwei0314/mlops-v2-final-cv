@@ -14,8 +14,8 @@ variables:
   enable_monitoring: false
 
   # Azure DevOps
-  ado_service_connection_rg: Azure-ARM-Dev
-  ado_service_connection_aml_ws: Azure-ARM-Dev
+  ado_service_connection_rg: 0510demo
+  ado_service_connection_aml_ws: 0510demo
 
   # DO NOT TOUCH
 
