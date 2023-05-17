@@ -69,7 +69,7 @@ jobs:
       model_arch_pretrained: true
 
       # training
-      num_epochs: 15 #1
+      num_epochs: 5 #1
       learning_rate: 0.001
       momentum: 0.9
 
